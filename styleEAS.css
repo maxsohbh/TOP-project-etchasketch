@@ -1,0 +1,22 @@
+*{
+    /* border: 1px solid; */
+    font-size: 1rem;
+}
+
+body{
+    text-align: center;
+}
+
+#grid-container{
+    margin: auto;
+    display: grid;
+    width: 500px;
+    height : 500px;
+    grid-gap: none;
+    border: 1px solid black;
+}
+
+.grid-box{
+    border: 1px solid black;
+
+}
